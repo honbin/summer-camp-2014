@@ -1,1 +1,1 @@
-http://makewith.jp/ の最後のやつを先に作ることにしました。
+http://place.makewith.jp/ を作ることで変更となりました..
